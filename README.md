@@ -173,8 +173,9 @@ Access the Firebase Realtime Database to view the stored humidity and temperatur
 
 ### Project Demo
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/YsfczmI5oYM/mqdefault.webp?v=65adbbfb&sqp=CLj3tq0G&rs=AOn4CLBTOi7cdKCJtncJmnkyWcv8ev7-5A)](https://youtu.be/YsfczmI5oYM){width="500"}
-
+<a href="https://youtu.be/YsfczmI5oYM">
+  <img src="https://i9.ytimg.com/vi_webp/YsfczmI5oYM/mqdefault.webp?v=65adbbfb&sqp=CLj3tq0G&rs=AOn4CLBTOi7cdKCJtncJmnkyWcv8ev7-5A" alt="Watch the video" style="width: 500px;">
+</a>
 
 ## Further Development
 
