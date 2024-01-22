@@ -158,6 +158,7 @@ Access the Firebase Realtime Database to view the stored humidity and temperatur
 ## Installation Instruction
 
 - Connect the sensor board to USB port
+- Install all the Libraries
 - Open the python script and make sure the com port number is as same as the USB port the sensor board is plugged in
 - If that is different, change the port number
 - Then run the python code, in the output window, the results can be seen (humidity and temperature)
