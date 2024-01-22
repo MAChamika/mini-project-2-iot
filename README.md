@@ -60,7 +60,7 @@ excellent long-term stability. This sensor includes a resistive-type humidity me
 component and an NTC temperature measurement component, and can be connected to a high performance microcontroller, offering excellent quality, fast response, anti-interference 
 ability and cost-effectiveness.
 
-<img src="images/dhtspec.png" width=""/>
+<img src="Images/dhtspec.png" width=""/>
 
 ###### Power and Pin
 
@@ -68,7 +68,7 @@ DHT11’s power supply is 3-5.5V DC. When power is supplied to the sensor, do no
 instruction to the sensor in within one second in order to pass the unstable status. One 
 capacitor valued 100nF can be added between VDD and GND for power filtering.
 
-<img src="images/typ appl.png" width=""/>
+<img src="Images/typ appl.png" width=""/>
 
 ## Technologies and process 
 
@@ -142,7 +142,7 @@ Access the Firebase Realtime Database to view the stored humidity and temperatur
 
 |Layout                           |  data                        |
 | ----------------------------------- | ----------------------------------- |
-| [<img src="images/layout.jpg" width=""/>](image.png) | [<img src="images/data.jpg" width="450"/>](image.png) | 
+| [<img src="Images/layout.jpg" width=""/>](image.png) | [<img src="images/data.jpg" width="450"/>](image.png) | 
 
 ## Data Pipe Line
 
@@ -153,7 +153,7 @@ Access the Firebase Realtime Database to view the stored humidity and temperatur
 5. Digital data to Firebase Rraltime database 
 6. Realtime data to Mobile application
 
-<img src="images/data pl.png" width=""/>
+<img src="Images/data pl.png" width=""/>
 
 ## Installation Instruction
 
@@ -169,13 +169,11 @@ Access the Firebase Realtime Database to view the stored humidity and temperatur
 
 |Dashboad                            |  Realtime Temparature                           | Realtime Humidity                                     |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-| [<img src="images/dashboard.jpg" width="250"/>](image.png) | [<img src="images/temp data.jpg" width="250"/>](image.png) | [<img src="images/humi data.jpg" width="250"/>](image.png) |
+| [<img src="Images/dashboard.jpg" width="250"/>](image.png) | [<img src="Images/temp data.jpg" width="250"/>](image.png) | [<img src="Images/humi data.jpg" width="250"/>](image.png) |
 
 ### Project Demo
 
 [![Watch the video](https://i9.ytimg.com/vi_webp/YsfczmI5oYM/mqdefault.webp?v=65adbbfb&sqp=CLj3tq0G&rs=AOn4CLBTOi7cdKCJtncJmnkyWcv8ev7-5A)](https://youtu.be/YsfczmI5oYM)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YsfczmI5oYM?si=u4FEfhkwKBUOJGYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Further Development
