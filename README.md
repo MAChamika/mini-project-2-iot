@@ -10,7 +10,7 @@ This project is based on Health Check Demonstration Using Temperature and Humidi
 
 ##### Arduino Mega 2560
 
-<img src="images/megaboard.png" width="400"/>
+<img src="mini-project-2-iot/megaboard.png" width="400"/>
 
 The Arduino Mega 2560 is a microcontroller board based on the ATmega2560 (datasheet). It has 54 digital input/output
 pins (of which 14 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal
