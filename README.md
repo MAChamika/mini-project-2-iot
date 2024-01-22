@@ -171,7 +171,7 @@ Access the Firebase Realtime Database to view the stored humidity and temperatur
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
 | [<img src="Images/dashboard.jpg" width="250"/>](image.png) | [<img src="Images/temp data.jpg" width="250"/>](image.png) | [<img src="Images/humi data.jpg" width="250"/>](image.png) |
 
-By this mobile application we can visualize both the data points and data fluctuation of actual temperature and humidity with real time time stamp.
+By this mobile application we can visualize both the data points and data fluctuation of actual temperature and humidity with real time stamp.
 
 ### Project Demo (click in the video to watch it)
 
