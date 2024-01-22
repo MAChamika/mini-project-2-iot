@@ -51,7 +51,7 @@ the 5V or 3.3V pins bypasses the regulator, and can damage your board. We don't 
 
 ##### DHT 11 Humidity & Temperature Sensor
 
-[<img src="images/dht 11.png" width=""/>]
+[<img src="Images/dht 11.png" width=""/>]
 
 DHT11 Temperature & Humidity Sensor features a temperature & humidity sensor
 complex with a calibrated digital signal output. By using the exclusive digital-signal-acquisition
