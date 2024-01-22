@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "264993935986",
+    "firebase_url": "https://health-check-48e20-default-rtdb.firebaseio.com",
+    "project_id": "health-check-48e20",
+    "storage_bucket": "health-check-48e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264993935986:android:2ba95ca73ef627051d28eb",
+        "android_client_info": {
+          "package_name": "com.example.health_check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgq2xn1euHcfFuJlxUEBCmEP-T46tXGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
